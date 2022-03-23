@@ -16,4 +16,4 @@ goto menu
 :opcja2
 echo trudno pogadamy kiedy indziej
 pause
-goto menu
+
